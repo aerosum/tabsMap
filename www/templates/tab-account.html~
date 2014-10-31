@@ -1,0 +1,6 @@
+<ion-view title="Account">
+  <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAnvJfCxDSE36J8IITLij5IwQ6kybNY7HU&sensor=true"></script>
+  <ion-content class="padding">
+    <div id="map" data-tap-disabled="true"></div>
+  </ion-content>
+</ion-view>
